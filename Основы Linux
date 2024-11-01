@@ -1,0 +1,3 @@
+mkdir ~/devops_test    - Создание директории devops_test в домашнем каталоге
+touch ~/devops_test/readme.txt  - cоздание пустого файла readme.txt в этой директории
+pwd - команда показ текущего пути в терминале
